@@ -14,3 +14,9 @@ Features still in development include:
  - Ability to convert .note files into other text formats
  - Automatic syncronization of spacing between Keywords section and Notes section
  - Tabs for improved quality-of-life and easier usage of the program
+
+# Standard Edition vs. Quality Edition
+You may notice that the software has two different versions. The quality edition is a 
+completely restructured version of the standard edition that is still in development.
+It has been rewritten to be cleaner and more compatable with external software; other
+than that, it is almost identical in function to the standard edition.
