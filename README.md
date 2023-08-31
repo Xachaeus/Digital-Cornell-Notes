@@ -6,6 +6,7 @@ Features of the program include:
 
  - Formatted sections of text entry according to Cornell Notes standard
  - Ability to save notes in low-space .note files
+ - Functional keyboard shortcuts to save and load .note files
 
 # Features in development
 Features still in development include:
